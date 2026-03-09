@@ -1,8 +1,10 @@
 # Hi, I'm Arafat! 👋
 
-### 🎓 EEE Student | Jashore University of Science and Technology (JUST)
+### 🎓 Electrical and Electronic Engineering (EEE) Student
+**Jashore University of Science and Technology (JUST)**
+
 - 📍 From **Dinajpur**, Bangladesh.
-- 📧 Email: [Arafatilsam23425@gmail.com](mailto:Arafatilsam23425@gmail.com)
+- 📧 Email: [arafatilsam23425@gmail.com](mailto:arafatilsam23425@gmail.com)
 
 ---
 <p align="left">
